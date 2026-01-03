@@ -11,4 +11,4 @@ JSI Investment is a project focused on creating and managing initiatives related
 
 ## Projects
 
-* [ninjatrader-scalping-bot](https://github.com/jsi-investment/ninjatrader-scalping-bot)
+* [ninjatrader-scalping-bot](https://github.com/jsi-investment/quantower-scalping-bot)
